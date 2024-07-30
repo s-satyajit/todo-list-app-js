@@ -60,6 +60,12 @@ cd todo-list-app
 3. **Start managing your tasks!**
 
 
-!Screenshot-1 img/screenshot-1.png
-!Screenshot-2 img/screenshot-2.png
+To add an image to your README.md file, you can use the following markdown syntax:
+
+![Screenshot 1](img/screenshot-1.png)
+
+![Screenshot 2](img/screenshot-2.png)
+
+
+
 
