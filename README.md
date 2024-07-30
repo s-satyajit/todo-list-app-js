@@ -59,3 +59,7 @@ cd todo-list-app
 
 3. **Start managing your tasks!**
 
+
+!Screenshot-1 img/screenshot-1.png
+!Screenshot-2 img/screenshot-2.png
+
